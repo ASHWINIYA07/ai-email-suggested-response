@@ -3,5 +3,3 @@ __pycache__/
 *.pyc
 data/indexes/
 data/raw/
-data/processed/emails.csv
-data/processed/knowledge_base.csv
