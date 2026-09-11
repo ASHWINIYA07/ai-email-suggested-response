@@ -1,0 +1,192 @@
+email_id,subject,generated_reply,reference_reply,llm_relevance,llm_factual_correctness,llm_completeness,llm_groundedness,llm_professional_tone,llm_overall_score,human_relevance,human_factual_correctness,human_completeness,human_groundedness,human_professional_tone,human_critical_error,human_overall_score,human_reason
+email_03984,Assistance with Project Management,"Hello,
+
+Thank you for contacting us regarding project management integration support. To provide accurate, comprehensive instructions, please share the following details:
+
+- The project management tools or products you want to integrate with
+- Information about your current system or SaaS platform
+- Relevant API documentation and technical specifications
+- The specific features, workflows, or data you want to connect
+
+Once we have this information, we can advise you on the necessary integration steps and requirements.
+
+Best regards,","<name>, thank you for contacting the Service Desk regarding project management assistance. We are happy to provide detailed integration instructions. To ensure we give accurate guidance, please specify the particular integration you aim to achieve. Alternatively, if you prefer, we can schedule a call at your convenience to discuss this further. Please inform us of a suitable time to reach you at <tel_num>. We look forward to supporting your project management requirements. Best regards,",5.0,5.0,4.0,5.0,5.0,4.8,,,,,,,,
+email_01404,Protecting Medical Information,"Dear Customer,
+
+We can provide general guidance for safeguarding medical data within hospital infrastructure, including encryption in transit and at rest, strict access controls, network segmentation, secure firewalls, regular vulnerability assessments and monitoring, comprehensive backups and recovery procedures, and staff training aligned with applicable privacy and security regulations.
+
+For more specific recommendations, please share details about your current infrastructure, security controls, applicable regulatory requirements, and the types of medical data involved. We can then discuss requirements in greater detail and identify appropriate next steps.
+
+Best regards,  
+Customer Support","We can offer general guidelines for securing medical data. For detailed information and to discuss specific requirements related to hospital infrastructure services and medical data security, please contact <tel_num>.",5.0,5.0,3.0,5.0,5.0,4.6,,,,,,,,
+email_17922,Concern Regarding Access to Medical Records,"Subject: Re: Concern Regarding Access to Medical Records
+
+Hello,
+
+We understand the urgency of the interruptions affecting access to medical records. Thank you for letting us know that using CCleaner and updating Moodle were completed successfully.
+
+Could you please provide the exact error message, the affected device(s) or user account(s), when the issue began, and whether access is currently restored? Please also let us know whether the problem affects all users or only specific systems. This information will help us investigate possible SSD performance or software-conflict issues promptly.
+
+If patient care is being affected, please provide a contact number and your availability for an urgent troubleshooting call.
+
+Kind regards,  
+Support Team",We are looking into the issue with accessing medical records. Please provide details about any error messages and the steps you have already taken. We can schedule a call to troubleshoot the issue and find a solution as soon as possible.,5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_09360,,"Thank you for reaching out. We’re happy to help you get started with data analytics for investment optimization. Please visit <website_url> and navigate to the Tutorials section for step-by-step instructions and supporting resources.
+
+If you would like personalized guidance, please let us know a suitable time to schedule a call at <tel_num>. When making investment decisions, consider your objectives and risk tolerance, and consult a qualified financial professional as appropriate.","<name>, thank you for contacting the customer support team. We are happy to assist you with guidance on using data analytics tools for investment optimization. For step-by-step instructions and resources, please visit our website at <website_url> and navigate to the tutorials section. If you require personalized support, you can schedule a call at your convenience to discuss your specific needs and receive tailored guidance on leveraging these tools to improve your investment portfolio. Please let us know a suitable time for a call at <tel_num>.",5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_14292,Details on SaaS Project Management Tools,"Dear [Name],
+
+Thank you for your interest in our SaaS project management tools. Our solutions include features such as task management, team collaboration, and time tracking. We offer different pricing plans to accommodate various business needs.
+
+I’d be happy to provide more information and answer any questions about which option best fits your requirements. You may contact us at [Tel_num] to discuss the tools and services in more detail.
+
+Best regards,  
+[Your Name]","Dear [Name], thank you for your interest in our SaaS project management tools. I would be happy to provide you with more details about the pricing and features. Our tools offer a range of services including task management, team collaboration, and time tracking. We have different pricing plans that suit various business needs. If you have any questions, I would be glad to discuss them. It would be convenient for us to call at [Tel Num] to discuss the SaaS details and explore how they meet your project management needs.",5.0,5.0,4.0,5.0,5.0,4.8,,,,,,,,
+email_11186,Incident of Data Breach in Hospital IT Systems,"Dear [Name],
+
+We’re sorry to hear about the suspected data breach affecting your medical records system. Because this involves sensitive information, please provide any available details about the incident, including when it was detected, which systems or records may be affected, and whether unauthorized access is ongoing.
+
+Please also contact us at <tel_num> at your earliest convenience so we can discuss the incident and coordinate the appropriate next steps.
+
+Best regards,  
+[Support Team]",We take this matter seriously. Please provide details of the incident and escalate the issue to a specialist by contacting <tel_num> to assist with the hospital data breach.,5.0,5.0,4.0,5.0,5.0,4.8,,,,,,,,
+email_15601,Exploring Data Analytics in Investments,"Thank you for reaching out. We’d be happy to help you explore data analytics for investing with Adobe Creative Cloud and Zoho Books.
+
+To provide tailored guidance, could you please share:
+
+- How you currently use Adobe Creative Cloud and Zoho Books
+- The data sources and types of investment information involved
+- The analytics or visualizations you want to create
+- Whether you need data transfer, reporting, or dashboard integration between the tools
+- Any specific software versions or third-party tools in your setup
+
+Once we have these details, we can recommend appropriate integration options and resources.","Thank you for your interest in leveraging data analytics for investments with Adobe Creative Cloud and Zoho Books. We can offer guidance based on your current setup and specific areas of data analytics you're interested in integrating. Please provide more details on what you're trying to achieve and how data is currently being worked with. We can provide tailored advice. We are available to schedule a call at <tel_num> for your convenience. Alternatively, you can communicate with us via [email or another communication method].",5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_11970,Problem with Database Access,"Hello,
+
+Thank you for reporting this. Since the unauthorized-access alert persists after reviewing the firewall and updating MongoDB, please treat this as a potential security incident. If possible, temporarily restrict MongoDB access to trusted hosts only, preserve the relevant logs, and avoid deleting or altering evidence.
+
+Please send us the alert details, timestamps and time zone, affected host and database, source IP addresses, and any related MongoDB authentication or audit-log entries. Do not include passwords, connection strings, or other sensitive credentials. We will review this information and help determine the cause and next steps.
+
+Best regards,  
+Support Team","Hello <name>, we are investigating the unauthorized access alert on the MongoDB 4.4 database. Could you please provide more details on the steps taken so far? I would like to schedule a call at <tel_num> to discuss the issue and determine the best course of action for <acc_num>. Please let us know a convenient time for the call.",5.0,5.0,4.0,4.0,5.0,4.65,,,,,,,,
+email_22705,,"Dear Customer,
+
+We’re sorry to hear that your team is experiencing intermittent Skype connectivity issues. To help us investigate, please provide your account number, the affected users or devices, any error messages, and details about your network setup (including firewall or security software). Please also let us know a convenient time and telephone number for a troubleshooting call.
+
+We appreciate the troubleshooting steps you have already taken and will work with you to identify the cause.
+
+Best regards,  
+Customer Support",We will investigate the Skype connectivity issue. Please provide <acc_num> and a good time to call at <tel_num> for a discussion to find a solution.,5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_02750,Integrate SaaS Project Management with Zapier and Kubernetes,"Dear [Name],
+
+Thank you for contacting us. Documentation and step-by-step guidance for connecting the project management SaaS with Zapier are available in the Integrations section of our website. These resources cover creating the connection, authorizing the required API credentials, configuring triggers and actions, and testing the workflow.
+
+For Kubernetes deployments, Zapier typically connects to an application through its public API or webhook endpoints rather than running inside the Kubernetes cluster. Please ensure that any required endpoints are securely accessible, authentication is configured according to the API documentation, and your network or ingress settings allow the necessary requests. The integration documentation should also outline any applicable capabilities, rate limits, and platform requirements.
+
+Common troubleshooting steps include verifying API credentials and permissions, confirming webhook URLs and event payloads, checking ingress or firewall configuration, reviewing Zapier task and error logs, and testing the API independently.
+
+If you share your SaaS version, Kubernetes environment, and the specific workflow you are trying to configure, we can provide more targeted guidance. We can also arrange a support session to walk through the integration.
+
+Best regards,  
+[Support Team]","<name>, thank you for reaching out to the support team. We can provide detailed documentation on integrating SaaS project management software with Zapier and Kubernetes. To assist further, we would like to schedule a call at <tel_num> to discuss the step-by-step instructions and the necessary API key configurations. We can also share information on troubleshooting common issues and any specific requirements or limitations in the integration. Please let us know a convenient time for the call; we are happy to assist you with the integration process at <acc_num>.",4.0,3.0,3.0,3.0,5.0,3.45,,,,,,,,
+email_26629,Inquiring About Integration of Third-Party Products with SaaS Solutions,"Hello,
+
+SaaS solutions can generally integrate with third-party products such as MATLAB and Avast through APIs, enabling data exchange and additional functionality. Compatibility, available features, limitations, and setup requirements depend on the specific SaaS platform and the third-party product.
+
+Common considerations include API availability and access permissions, supported data formats, authentication requirements, network or security policies, and any licensing restrictions. Benefits may include improved workflow efficiency, centralized access, automation, and enhanced security.
+
+For detailed requirements and setup instructions, please consult the relevant product documentation or share the specific SaaS solution, MATLAB or Avast product/version, and intended use case. This will allow us to provide more accurate integration guidance.
+
+Best regards,","SaaS solutions can integrate third-party products like MATLAB and Avast through APIs, which enable seamless data exchange and enhanced functionality. These solutions are compatible with various third-party products, offering benefits such as improved workflow efficiency and enhanced security. For specific requirements and setup details, please visit our website or contact us at <tel_num> for assistance in discussing your specific needs.",5.0,5.0,4.0,5.0,5.0,4.8,,,,,,,,
+email_10755,Enhancing Google Meet for Team Collaboration,"Hello,
+
+Google Meet can support collaboration through features such as:
+
+- **Google Calendar integration:** Add Meet links to calendar events and include agendas or shared documents.
+- **Screen sharing and collaborative work:** Present specific tabs or windows, and use Google Docs, Sheets, or Slides alongside the meeting.
+- **Breakout rooms, polls, and Q&A:** Useful for workshops, training, and larger team discussions, where available with your Google Workspace edition.
+- **Recordings, transcripts, and captions:** Help colleagues review meetings and support accessibility; availability depends on your edition and administrator settings.
+- **Co-hosts and host controls:** Delegate moderation and manage participants more effectively.
+- **Noise cancellation and Companion mode:** Improve audio quality and allow in-room participants to engage individually when appropriate.
+
+We also recommend reviewing these settings:
+
+- Configure **Quick access** and participant permissions according to your security requirements.
+- Assign co-hosts for recurring or larger meetings.
+- Decide whether recording, transcription, chat, screen sharing, and participant entry should be restricted.
+- Use a consistent meeting naming convention and add agendas, action items, and relevant files to Calendar invitations.
+- Ask your Google Workspace administrator to confirm that the required Meet features are enabled for your organization.
+
+Feature availability and exact settings may vary by your Workspace edition and administrative policies. If you share your team size, typical meeting format, and Google Workspace edition, we can provide more specific recommendations.","We can offer guidance on optimizing Google Meet for team collaboration. With Google Meet, explore features such as screen sharing, recording meetings, and integrating Google Workspace tools. I recommend reviewing the settings and configurations to ensure they align with your team's needs. If you would like to discuss further, please let me know a convenient time for a call, as I am happy to assist with specific recommendations for your team.",5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_18690,Issue with SaaS Subscription Billing,"Subject: Re: Issue with SaaS Subscription Billing
+
+We’re sorry for the duplicate charge and the inconvenience caused. We’ll investigate the billing issue and determine the appropriate refund.
+
+Please provide your account number and the date and amount of the duplicate charge so we can review the transaction and assist you promptly.",We apologize for the billing error and will investigate the issue to correct the duplicate charges for your SaaS subscription. Please provide your account number and the date of the incorrect charge so we can look into processing a refund if necessary.,5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_24778,Enhancement Needed for Marketing Strategies,"Thank you for sharing these details. We’d be happy to help further optimize your digital strategy and resource allocation. Please provide your current campaign goals, target audience, key performance data, and available marketing budget/resources, along with any specific Drupal updates or channels you would like us to review.
+
+Once we have this information, we can recommend opportunities across SEO, content, social media, and email marketing. We can also arrange a call to discuss your priorities and next steps. Please include your business account number if applicable.",I would be happy to assist in optimizing your digital strategies. Let's discuss scheduling a convenient call to review your current initiatives and provide personalized guidance to improve resource allocation and boost brand growth.,5.0,4.0,5.0,4.0,5.0,4.55,,,,,,,,
+email_14483,Enhanced Security for Medical Data Implementation,"Dear Customer,
+
+Thank you for contacting us regarding enhanced security measures for medical data associated with account <acc_num>.
+
+To evaluate the request and determine the appropriate implementation plan, please provide:
+
+- The specific security requirements or regulatory standards to be addressed
+- Details of the affected systems, applications, hardware, and data flows
+- Current security controls, including encryption, authentication, access management, monitoring, and backup procedures
+- The scope of the medical data involved and any identified risks or concerns
+- Your preferred implementation timeline and key stakeholders
+
+Once we receive this information, we can review the current setup, assess potential vulnerabilities and gaps, and outline recommended measures, implementation steps, responsibilities, and timelines. Please also share your availability if you would like to schedule a discussion.
+
+Best regards,  
+Customer Support","Review request to implement enhanced security measures for medical data. Please provide specific requirements, details on the current setup, evaluation, and the next steps for the implementation process. Account: <acc_num>",5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_19658,,"Dear [Your Name],
+
+Thank you for reaching out. We offer data analytics services designed to support investment decisions, including portfolio analysis, risk assessment, data analysis, and reporting. These services can help identify trends, evaluate portfolio performance, and provide insights for more informed strategy development.
+
+We would be happy to share relevant case studies or examples of successful implementations and discuss how our solutions may fit your needs. Please let us know a convenient time to speak and, if possible, share a brief overview of your investment objectives and the types of data you currently use.
+
+Best regards,  
+Customer Support","<name>, thank you for reaching out to our customer support team. We offer a range of data analytics services designed to optimize investment strategies, such as portfolio analysis and risk assessment. Our services help in making informed decisions by providing valuable insights and trends. We have successfully implemented these services for several clients and would be happy to provide case studies or examples of successful implementations. Could we discuss further at your convenience? Please let us know a time that works for you.",5.0,5.0,4.0,5.0,5.0,4.8,,,,,,,,
+email_16679,Request for Support Regarding Suspected Data Breach in Medical Records System,"Subject: Re: Request for Support Regarding Suspected Data Breach in Medical Records System
+
+Hello,
+
+We acknowledge your report regarding the suspected breach and understand the urgency of protecting sensitive patient information.
+
+To support the investigation, please provide the following through an approved secure channel:
+
+- Approximate date and time the issue was first detected
+- Relevant access-log findings, including any suspected unauthorized activity
+- Results of the scans or other checks performed
+- The suspected vulnerability and affected systems or components
+- Temporary security measures already implemented and the issue that persists
+- Current system configuration and any recent updates or changes
+
+Please do not include patient-identifying information in email. Also let us know the appropriate incident contact and a suitable time for a call so we can discuss the investigation and next steps securely.
+
+Regards,  
+Customer Support",Send a specialist to assist with the data breach investigation and resolution immediately.,4.0,4.0,3.0,4.0,5.0,3.9,,,,,,,,
+email_05416,Digital Campaigns Significantly Underperforming,"Hello,
+
+We’re happy to help identify the causes of the underperformance and explore updated targeting strategies. To assess the campaigns, please share the relevant account or campaign details, the key metrics that are falling short, the current targeting methods, and the changes made so far.
+
+Please also let us know a convenient time to discuss this further.","To review the digital campaigns and provide strategies for improvement, including alternative targeting methods, please let us know a convenient time for a discussion about account <acc_num> and its campaigns.",5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
+email_23725,Data Security Incident in Hospital Systems,"Dear [Name],
+
+Thank you for reporting this urgent security concern. We understand the potential risk to patient data and would like to review the incident promptly.
+
+Please provide the following information through a secure channel:
+
+- Date and time the breach was detected  
+- Affected systems and any suspected unauthorized access  
+- Error messages, alerts, or other indicators observed  
+- Details of the firewall changes, software updates, and scans performed  
+- Whether the issue is ongoing and whether patient information may have been accessed  
+
+If unauthorized access is still suspected, please follow your incident-response procedures, preserve relevant logs and other evidence, and involve your privacy/security team as appropriate. Please also share a suitable time and telephone number for an urgent call so we can discuss the next steps.
+
+Kind regards,  
+Customer Support","Dear [Name], <br> We acknowledge your email regarding the data security breach in hospital systems and understand the urgency of the concern regarding patient data security. To better assist you, we would like to request more information about the breach, including the date it was detected and any error messages encountered. Could you also provide details on the software updates and firewall rules that have been implemented? Once we review this information, we can provide guidance on the next steps to secure the systems. If necessary, we may need further details. <br> Best regards,",5.0,5.0,5.0,5.0,5.0,5.0,,,,,,,,
